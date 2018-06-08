@@ -12,6 +12,6 @@ function logGenerator() {
   logger({'status_code': status, 'device': device}, 'Sample', api);
 }
 
-for(var i=0; i<100000; i++) {
+for(var i=0; i<100; i++) {
     logGenerator();
 }

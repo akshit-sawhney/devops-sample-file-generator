@@ -1,8 +1,11 @@
-Running it
+# Running it
+1. Run `npm install`
+2. Run `npm run generateLogs`
+3. Take the file generated out of log folder.
 
-1. npm install
-2. node index.js
-3. take the file generated out of log folder.
+
+# Consuming logs
+1. run `npm run formulateData`.
 
 
-you can run multiple instances of it to do it quickly
+P.S. You can run multiple instances of it to do it quickly.
